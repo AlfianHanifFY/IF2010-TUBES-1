@@ -1,0 +1,5 @@
+Dark_Knight EXC 0.250000
+Skeleton OBL 0.900000
+Skeleton RVB 0.900000
+Skeleton SKA 0.900000
+Slime MNP 0.900000

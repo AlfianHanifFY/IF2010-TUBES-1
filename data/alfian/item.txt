@@ -1,0 +1,42 @@
+EXC Excalibur Weapon S 500 CrimsonCurse -
+DRA Dragon_Armor Armor_Body A 200 ShadowFang Reflect -
+MNP Mana_Potion Potion C 0 ManaRegen -
+PHP Phoenix_Pendant Pendant B 0 HealthRegen -
+LGT Lightning_Sword Weapon A 400 SpeedBoost -
+THD Thunder_Helmet Armor_Head B 170 Reflect -
+ENP Energy_Potion Potion C 0 ManaRegen -
+SLP Silver_Pendant Pendant B 0 HealthRegen -
+BLD Blood_Dagger Weapon A 370 ShadowFang -
+IRN Iron_Armor Armor_Body B 160 DamageReduction -
+STP Stamina_Potion Potion C 0 SpeedBoost -
+ELP Elixir_Pendant Pendant A 0 HealthRegen ManaRegen -
+VNM Venom_Spear Weapon B 320 DullingCurse -
+GLD Golden_Shield Armor_Foot A 250 Reflect DamageReduction -
+MGP Magic_Potion Potion C 0 ManaRegen -
+DRP Dragon_Pendant Pendant S 0 CrimsonCurse HealthRegen -
+OBL Oblivion_Blade Weapon S 600 CrimsonCurse DullingCurse -
+SCA Sacred_Armor Armor_Body S 450 Reflect DamageReduction -
+ATP Attack_Potion Potion B 0 SpeedBoost -
+HPP Health_Pendant Pendant A 0 HealthRegen -
+RVB Raven_Bow Weapon A 390 ShadowFang SpeedBoost -
+SKA Skull_Armor Armor_Body B 200 ShatterArmor -
+REP Recovery_Potion Potion C 0 HealthRegen -
+FRP Fury_Pendant Pendant B 0 SpeedBoost ManaRegen -
+BLZ Blaze_Sword Weapon S 550 SpeedBoost ShadowFang -
+SLH Silent_Hood Armor_Head A 220 DullingCurse SpeedBoost -
+MRP Miracle_Potion Potion B 0 HealthRegen ManaRegen -
+LFP Life_Pendant Pendant A 0 HealthRegen Reflect -
+STG Storm_Gauntlet Weapon A 410 CrimsonCurse SpeedBoost -
+FRS Frost_Shield Armor_Foot B 190 DamageReduction Reflect -
+VTP Vitality_Potion Potion C 0 HealthRegen -
+DMP DarkMoon_Pendant Pendant B 0 DullingCurse ManaRegen -
+NVM Nova_Mace Weapon A 380 ShadowFang DullingCurse -
+ELM Elemental_Armor Armor_Body S 470 Reflect ShatterArmor -
+VBR Vortex_Blade Weapon S 600 SpeedBoost CrimsonCurse -
+HBL Hell_Bow Weapon A 450 ShadowFang SpeedBoost -
+DRG Dragon_Glaive Weapon S 700 DullingCurse Reflect -
+ICE Ice_Spear Weapon A 500 ShatterArmor SpeedBoost -
+THR Thunder_Rapier Weapon B 350 ManaRegen SpeedBoost -
+BLT Blood_Lance Weapon A 480 HealthRegen ShadowFang -
+FAL Falcon_Sword Weapon S 650 SpeedBoost ShadowFang -
+WAV Wave_Claw Weapon B 400 DullingCurse Reflect -
